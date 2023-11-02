@@ -324,8 +324,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-## Hasil Run 
-https://github.com/Muhjat7/progmobile1/blob/master/img/h2.mp4
+## Hasil Program 
+
+
+
+https://github.com/Muhjat7/progmobile1/blob/master/img/h2.mp4/115867244/66f7c216-ba05-4d3b-912e-108e10b25726
+
 
 
 
