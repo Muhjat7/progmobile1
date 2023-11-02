@@ -325,7 +325,11 @@ public class MainActivity extends AppCompatActivity {
 
 
 ## Hasil Run 
-<video src="h2.mp4" controls title="Title"></video>
+<video width="320" height="240" controls>
+  <source src="img/h2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 
