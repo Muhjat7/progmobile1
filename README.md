@@ -1,7 +1,7 @@
 <h1> Deret Fibonacci Toast java</h1>
 
 Nama : Muhamad Jati Wasesa <br>
-NIM : 312210481
+NIM : 312210481 <br>
 Kelas : TI.22.A5
 
 Mata Kuliah : Pemrograman Mobile 1
